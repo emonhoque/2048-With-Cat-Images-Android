@@ -6,7 +6,7 @@ A personal project created as a birthday gift for a friend who loves cats.
     <img src="https://user-images.githubusercontent.com/56671915/123266964-135d6880-d52f-11eb-8ae5-90cd8fc222c2.png" width="300" height="300">
 </div>
 
-## Meet the Cats
+## Meet the Cats!
 <table>
 <tbody>
   <tr>
