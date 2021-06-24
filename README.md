@@ -16,16 +16,34 @@ A personal project created as a birthday gift for a friend who loves cats.
     <td><img src="https://user-images.githubusercontent.com/56671915/123266251-6e429000-d52e-11eb-8f58-9cec26f1f6cf.png" width="150" height="150"></td>
   </tr>
   <tr>
+    <td><p align="center">Ghost</p></td>
+    <td><p align="center">Inky</p></td>
+    <td><p align="center">Chubby</p></td>
+    <td><p align="center">Leo</p></td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266255-6edb2680-d52e-11eb-894a-91a52d059ff6.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266261-6f73bd00-d52e-11eb-99e5-cd89a6eba01e.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266267-700c5380-d52e-11eb-99d4-720aedad0de0.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266272-70a4ea00-d52e-11eb-88b7-a486f446c395.png" width="150" height="150"></td>
   </tr>
-   <tr>
+  <tr>
+    <td><p align="center">Cleo</p></td>
+    <td><p align="center">Potka</p></td>
+    <td><p align="center">Venus</p></td>
+    <td><p align="center">Storm</p></td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266275-713d8080-d52e-11eb-8788-a0cbfc476047.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266279-71d61700-d52e-11eb-82b1-03308bd21965.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266287-726ead80-d52e-11eb-9945-aca25adce616.png" width="150" height="150"></td>
     <td><img src="https://user-images.githubusercontent.com/56671915/123266293-726ead80-d52e-11eb-876f-dae89e697652.png" width="150" height="150"></td>
+  </tr>
+  <tr>
+    <td><p align="center">Mango</p></td>
+    <td><p align="center">Kiwi</p></td>
+    <td><p align="center">Peach</p></td>
+    <td><p align="center">Blackie</p></td>
   </tr>
 </tbody>
 </table>
